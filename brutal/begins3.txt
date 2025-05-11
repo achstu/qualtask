@@ -1,0 +1,1531 @@
+====
+Death Star,Coruscant,Scarif,Malachor,Kashyyyk,Mandalore,Mimban,Corellia,Umbara,Bespin,Wobani,Death Star,Endor,Mygeeto,
+len:  698
+fuel: 400
+====
+Death Star,Coruscant,Scarif,Malachor,Bespin,Kashyyyk,Mandalore,Mimban,Corellia,Umbara,Wobani,Death Star,Endor,Mygeeto,
+len:  690
+fuel: 400
+====
+Death Star,Coruscant,Scarif,Malachor,Bespin,Kashyyyk,Mandalore,Mimban,Corellia,Umbara,Wobani,Death Star,Mygeeto,Endor,
+len:  694
+fuel: 396
+====
+Death Star,Coruscant,Scarif,Malachor,Bespin,Kashyyyk,Corellia,Mandalore,Mimban,Umbara,Wobani,Death Star,Endor,Mygeeto,
+len:  698
+fuel: 400
+====
+Death Star,Coruscant,Scarif,Malachor,Bespin,Kashyyyk,Corellia,Mimban,Mandalore,Umbara,Wobani,Death Star,Endor,Mygeeto,
+len:  698
+fuel: 400
+====
+Death Star,Coruscant,Scarif,Malachor,Bespin,Kashyyyk,Mimban,Mandalore,Corellia,Umbara,Wobani,Death Star,Endor,Mygeeto,
+len:  692
+fuel: 400
+====
+Death Star,Coruscant,Scarif,Malachor,Bespin,Mandalore,Mimban,Corellia,Kashyyyk,Umbara,Wobani,Death Star,Endor,Mygeeto,
+len:  698
+fuel: 400
+====
+Death Star,Coruscant,Scarif,Malachor,Bespin,Corellia,Mandalore,Mimban,Kashyyyk,Umbara,Wobani,Death Star,Endor,Mygeeto,
+len:  692
+fuel: 400
+====
+Death Star,Coruscant,Scarif,Malachor,Bespin,Corellia,Mimban,Mandalore,Kashyyyk,Umbara,Wobani,Death Star,Endor,Mygeeto,
+len:  690
+fuel: 400
+====
+Death Star,Coruscant,Scarif,Malachor,Bespin,Corellia,Mimban,Mandalore,Kashyyyk,Umbara,Wobani,Death Star,Mygeeto,Endor,
+len:  694
+fuel: 396
+====
+Death Star,Coruscant,Scarif,Malachor,Bespin,Umbara,Kashyyyk,Mandalore,Mimban,Corellia,Wobani,Death Star,Endor,Mygeeto,
+len:  690
+fuel: 400
+====
+Death Star,Coruscant,Scarif,Malachor,Bespin,Umbara,Kashyyyk,Mandalore,Mimban,Corellia,Wobani,Death Star,Mygeeto,Endor,
+len:  694
+fuel: 396
+====
+Death Star,Coruscant,Scarif,Malachor,Bespin,Umbara,Kashyyyk,Corellia,Mandalore,Mimban,Wobani,Death Star,Endor,Mygeeto,
+len:  698
+fuel: 400
+====
+Death Star,Coruscant,Scarif,Malachor,Bespin,Umbara,Kashyyyk,Corellia,Mimban,Mandalore,Wobani,Death Star,Endor,Mygeeto,
+len:  698
+fuel: 400
+====
+Death Star,Coruscant,Scarif,Malachor,Bespin,Umbara,Kashyyyk,Mimban,Mandalore,Corellia,Wobani,Death Star,Endor,Mygeeto,
+len:  692
+fuel: 400
+====
+Death Star,Coruscant,Scarif,Malachor,Bespin,Umbara,Mandalore,Mimban,Corellia,Kashyyyk,Wobani,Death Star,Endor,Mygeeto,
+len:  698
+fuel: 400
+====
+Death Star,Coruscant,Scarif,Malachor,Bespin,Umbara,Corellia,Mandalore,Mimban,Kashyyyk,Wobani,Death Star,Endor,Mygeeto,
+len:  692
+fuel: 400
+====
+Death Star,Coruscant,Scarif,Malachor,Bespin,Umbara,Corellia,Mimban,Mandalore,Kashyyyk,Wobani,Death Star,Endor,Mygeeto,
+len:  690
+fuel: 400
+====
+Death Star,Coruscant,Scarif,Malachor,Bespin,Umbara,Corellia,Mimban,Mandalore,Kashyyyk,Wobani,Death Star,Mygeeto,Endor,
+len:  694
+fuel: 396
+====
+Death Star,Coruscant,Scarif,Malachor,Bespin,Umbara,Mimban,Mandalore,Corellia,Kashyyyk,Wobani,Death Star,Endor,Mygeeto,
+len:  698
+fuel: 400
+====
+Death Star,Coruscant,Scarif,Malachor,Bespin,Mimban,Mandalore,Corellia,Kashyyyk,Umbara,Wobani,Death Star,Endor,Mygeeto,
+len:  698
+fuel: 400
+====
+Death Star,Coruscant,Scarif,Malachor,Corellia,Mimban,Mandalore,Kashyyyk,Umbara,Bespin,Wobani,Death Star,Endor,Mygeeto,
+len:  698
+fuel: 400
+====
+Death Star,Coruscant,Scarif,Malachor,Umbara,Kashyyyk,Mandalore,Mimban,Corellia,Bespin,Wobani,Death Star,Endor,Mygeeto,
+len:  698
+fuel: 400
+====
+Death Star,Coruscant,Scarif,Malachor,Umbara,Corellia,Mimban,Mandalore,Kashyyyk,Bespin,Wobani,Death Star,Endor,Mygeeto,
+len:  698
+fuel: 400
+====
+Death Star,Coruscant,Malachor,Kashyyyk,Mandalore,Mimban,Corellia,Umbara,Bespin,Scarif,Death Star,Wobani,Mygeeto,Endor,
+len:  680
+fuel: 382
+====
+Death Star,Coruscant,Malachor,Bespin,Kashyyyk,Mandalore,Mimban,Corellia,Umbara,Scarif,Death Star,Wobani,Mygeeto,Endor,
+len:  680
+fuel: 382
+====
+Death Star,Coruscant,Malachor,Bespin,Corellia,Mimban,Mandalore,Kashyyyk,Umbara,Scarif,Death Star,Wobani,Mygeeto,Endor,
+len:  680
+fuel: 382
+====
+Death Star,Coruscant,Malachor,Bespin,Umbara,Kashyyyk,Mandalore,Mimban,Corellia,Scarif,Death Star,Wobani,Mygeeto,Endor,
+len:  680
+fuel: 382
+====
+Death Star,Coruscant,Malachor,Bespin,Umbara,Kashyyyk,Corellia,Mandalore,Mimban,Mygeeto,Endor,Death Star,Scarif,Wobani,
+len:  693
+fuel: 407
+====
+Death Star,Coruscant,Malachor,Bespin,Umbara,Kashyyyk,Corellia,Mandalore,Mimban,Mygeeto,Endor,Death Star,Wobani,Scarif,
+len:  693
+fuel: 407
+====
+Death Star,Coruscant,Malachor,Bespin,Umbara,Corellia,Mimban,Mandalore,Kashyyyk,Scarif,Death Star,Wobani,Mygeeto,Endor,
+len:  680
+fuel: 382
+====
+Death Star,Coruscant,Malachor,Scarif,Kashyyyk,Mandalore,Mimban,Corellia,Umbara,Bespin,Wobani,Death Star,Endor,Mygeeto,
+len:  696
+fuel: 400
+====
+Death Star,Coruscant,Malachor,Scarif,Kashyyyk,Mimban,Mandalore,Corellia,Umbara,Bespin,Wobani,Death Star,Endor,Mygeeto,
+len:  698
+fuel: 400
+====
+Death Star,Coruscant,Malachor,Scarif,Bespin,Kashyyyk,Mandalore,Mimban,Corellia,Umbara,Wobani,Death Star,Endor,Mygeeto,
+len:  688
+fuel: 400
+====
+Death Star,Coruscant,Malachor,Scarif,Bespin,Kashyyyk,Mandalore,Mimban,Corellia,Umbara,Wobani,Death Star,Mygeeto,Endor,
+len:  692
+fuel: 396
+====
+Death Star,Coruscant,Malachor,Scarif,Bespin,Kashyyyk,Corellia,Mandalore,Mimban,Umbara,Wobani,Death Star,Endor,Mygeeto,
+len:  696
+fuel: 400
+====
+Death Star,Coruscant,Malachor,Scarif,Bespin,Kashyyyk,Corellia,Mimban,Mandalore,Umbara,Wobani,Death Star,Endor,Mygeeto,
+len:  696
+fuel: 400
+====
+Death Star,Coruscant,Malachor,Scarif,Bespin,Kashyyyk,Mimban,Mandalore,Corellia,Umbara,Wobani,Death Star,Endor,Mygeeto,
+len:  690
+fuel: 400
+====
+Death Star,Coruscant,Malachor,Scarif,Bespin,Kashyyyk,Mimban,Mandalore,Corellia,Umbara,Wobani,Death Star,Mygeeto,Endor,
+len:  694
+fuel: 396
+====
+Death Star,Coruscant,Malachor,Scarif,Bespin,Mandalore,Mimban,Corellia,Kashyyyk,Umbara,Wobani,Death Star,Endor,Mygeeto,
+len:  696
+fuel: 400
+====
+Death Star,Coruscant,Malachor,Scarif,Bespin,Corellia,Mandalore,Mimban,Kashyyyk,Umbara,Wobani,Death Star,Endor,Mygeeto,
+len:  690
+fuel: 400
+====
+Death Star,Coruscant,Malachor,Scarif,Bespin,Corellia,Mandalore,Mimban,Kashyyyk,Umbara,Wobani,Death Star,Mygeeto,Endor,
+len:  694
+fuel: 396
+====
+Death Star,Coruscant,Malachor,Scarif,Bespin,Corellia,Mimban,Mandalore,Kashyyyk,Umbara,Wobani,Death Star,Endor,Mygeeto,
+len:  688
+fuel: 400
+====
+Death Star,Coruscant,Malachor,Scarif,Bespin,Corellia,Mimban,Mandalore,Kashyyyk,Umbara,Wobani,Death Star,Mygeeto,Endor,
+len:  692
+fuel: 396
+====
+Death Star,Coruscant,Malachor,Scarif,Bespin,Umbara,Kashyyyk,Mandalore,Mimban,Corellia,Wobani,Death Star,Endor,Mygeeto,
+len:  688
+fuel: 400
+====
+Death Star,Coruscant,Malachor,Scarif,Bespin,Umbara,Kashyyyk,Mandalore,Mimban,Corellia,Wobani,Death Star,Mygeeto,Endor,
+len:  692
+fuel: 396
+====
+Death Star,Coruscant,Malachor,Scarif,Bespin,Umbara,Kashyyyk,Corellia,Mandalore,Mimban,Wobani,Death Star,Endor,Mygeeto,
+len:  696
+fuel: 400
+====
+Death Star,Coruscant,Malachor,Scarif,Bespin,Umbara,Kashyyyk,Corellia,Mimban,Mandalore,Wobani,Death Star,Endor,Mygeeto,
+len:  696
+fuel: 400
+====
+Death Star,Coruscant,Malachor,Scarif,Bespin,Umbara,Kashyyyk,Mimban,Mandalore,Corellia,Wobani,Death Star,Endor,Mygeeto,
+len:  690
+fuel: 400
+====
+Death Star,Coruscant,Malachor,Scarif,Bespin,Umbara,Kashyyyk,Mimban,Mandalore,Corellia,Wobani,Death Star,Mygeeto,Endor,
+len:  694
+fuel: 396
+====
+Death Star,Coruscant,Malachor,Scarif,Bespin,Umbara,Mandalore,Mimban,Corellia,Kashyyyk,Wobani,Death Star,Endor,Mygeeto,
+len:  696
+fuel: 400
+====
+Death Star,Coruscant,Malachor,Scarif,Bespin,Umbara,Corellia,Mandalore,Mimban,Kashyyyk,Wobani,Death Star,Endor,Mygeeto,
+len:  690
+fuel: 400
+====
+Death Star,Coruscant,Malachor,Scarif,Bespin,Umbara,Corellia,Mandalore,Mimban,Kashyyyk,Wobani,Death Star,Mygeeto,Endor,
+len:  694
+fuel: 396
+====
+Death Star,Coruscant,Malachor,Scarif,Bespin,Umbara,Corellia,Mimban,Mandalore,Kashyyyk,Wobani,Death Star,Endor,Mygeeto,
+len:  688
+fuel: 400
+====
+Death Star,Coruscant,Malachor,Scarif,Bespin,Umbara,Corellia,Mimban,Mandalore,Kashyyyk,Wobani,Death Star,Mygeeto,Endor,
+len:  692
+fuel: 396
+====
+Death Star,Coruscant,Malachor,Scarif,Bespin,Umbara,Mimban,Mandalore,Corellia,Kashyyyk,Wobani,Death Star,Endor,Mygeeto,
+len:  696
+fuel: 400
+====
+Death Star,Coruscant,Malachor,Scarif,Bespin,Mimban,Mandalore,Corellia,Kashyyyk,Umbara,Wobani,Death Star,Endor,Mygeeto,
+len:  696
+fuel: 400
+====
+Death Star,Coruscant,Malachor,Scarif,Corellia,Mandalore,Mimban,Kashyyyk,Umbara,Bespin,Wobani,Death Star,Endor,Mygeeto,
+len:  698
+fuel: 400
+====
+Death Star,Coruscant,Malachor,Scarif,Corellia,Mimban,Mandalore,Kashyyyk,Umbara,Bespin,Wobani,Death Star,Endor,Mygeeto,
+len:  696
+fuel: 400
+====
+Death Star,Coruscant,Malachor,Scarif,Umbara,Kashyyyk,Mandalore,Mimban,Corellia,Bespin,Wobani,Death Star,Endor,Mygeeto,
+len:  696
+fuel: 400
+====
+Death Star,Coruscant,Malachor,Scarif,Umbara,Kashyyyk,Mimban,Mandalore,Corellia,Bespin,Wobani,Death Star,Endor,Mygeeto,
+len:  698
+fuel: 400
+====
+Death Star,Coruscant,Malachor,Scarif,Umbara,Corellia,Mandalore,Mimban,Kashyyyk,Bespin,Wobani,Death Star,Endor,Mygeeto,
+len:  698
+fuel: 400
+====
+Death Star,Coruscant,Malachor,Scarif,Umbara,Corellia,Mimban,Mandalore,Kashyyyk,Bespin,Wobani,Death Star,Endor,Mygeeto,
+len:  696
+fuel: 400
+====
+Death Star,Coruscant,Malachor,Corellia,Mimban,Mandalore,Kashyyyk,Umbara,Bespin,Scarif,Death Star,Wobani,Mygeeto,Endor,
+len:  680
+fuel: 382
+====
+Death Star,Coruscant,Malachor,Umbara,Kashyyyk,Mandalore,Mimban,Corellia,Bespin,Scarif,Death Star,Wobani,Mygeeto,Endor,
+len:  680
+fuel: 382
+====
+Death Star,Coruscant,Malachor,Umbara,Corellia,Mimban,Mandalore,Kashyyyk,Bespin,Scarif,Death Star,Wobani,Mygeeto,Endor,
+len:  680
+fuel: 382
+====
+Death Star,Endor,Mygeeto,Mimban,Mandalore,Corellia,Kashyyyk,Umbara,Bespin,Malachor,Coruscant,Death Star,Scarif,Wobani,
+len:  693
+fuel: 407
+====
+Death Star,Endor,Mygeeto,Mimban,Mandalore,Corellia,Kashyyyk,Umbara,Bespin,Malachor,Coruscant,Death Star,Wobani,Scarif,
+len:  693
+fuel: 407
+====
+Death Star,Endor,Mygeeto,Mimban,Mandalore,Corellia,Kashyyyk,Umbara,Bespin,Wobani,Death Star,Coruscant,Scarif,Malachor,
+len:  691
+fuel: 405
+====
+Death Star,Endor,Mygeeto,Mimban,Mandalore,Corellia,Kashyyyk,Umbara,Bespin,Wobani,Death Star,Coruscant,Malachor,Scarif,
+len:  683
+fuel: 413
+====
+Death Star,Endor,Mygeeto,Mimban,Mandalore,Corellia,Kashyyyk,Umbara,Bespin,Wobani,Death Star,Scarif,Coruscant,Malachor,
+len:  683
+fuel: 413
+====
+Death Star,Endor,Mygeeto,Mimban,Mandalore,Corellia,Kashyyyk,Umbara,Bespin,Wobani,Death Star,Scarif,Malachor,Coruscant,
+len:  680
+fuel: 416
+====
+Death Star,Endor,Mygeeto,Mimban,Mandalore,Corellia,Kashyyyk,Umbara,Bespin,Wobani,Death Star,Malachor,Coruscant,Scarif,
+len:  689
+fuel: 407
+====
+Death Star,Endor,Mygeeto,Mimban,Mandalore,Corellia,Kashyyyk,Umbara,Bespin,Wobani,Death Star,Malachor,Scarif,Coruscant,
+len:  694
+fuel: 402
+====
+Death Star,Scarif,Coruscant,Malachor,Kashyyyk,Mandalore,Mimban,Corellia,Umbara,Bespin,Wobani,Death Star,Endor,Mygeeto,
+len:  690
+fuel: 400
+====
+Death Star,Scarif,Coruscant,Malachor,Kashyyyk,Mandalore,Mimban,Corellia,Umbara,Bespin,Wobani,Death Star,Mygeeto,Endor,
+len:  694
+fuel: 396
+====
+Death Star,Scarif,Coruscant,Malachor,Kashyyyk,Corellia,Mandalore,Mimban,Umbara,Bespin,Wobani,Death Star,Endor,Mygeeto,
+len:  698
+fuel: 400
+====
+Death Star,Scarif,Coruscant,Malachor,Kashyyyk,Corellia,Mimban,Mandalore,Umbara,Bespin,Wobani,Death Star,Endor,Mygeeto,
+len:  698
+fuel: 400
+====
+Death Star,Scarif,Coruscant,Malachor,Kashyyyk,Mimban,Mandalore,Corellia,Umbara,Bespin,Wobani,Death Star,Endor,Mygeeto,
+len:  692
+fuel: 400
+====
+Death Star,Scarif,Coruscant,Malachor,Bespin,Kashyyyk,Mandalore,Mimban,Corellia,Umbara,Wobani,Death Star,Endor,Mygeeto,
+len:  682
+fuel: 400
+====
+Death Star,Scarif,Coruscant,Malachor,Bespin,Kashyyyk,Mandalore,Mimban,Corellia,Umbara,Wobani,Death Star,Mygeeto,Endor,
+len:  686
+fuel: 396
+====
+Death Star,Scarif,Coruscant,Malachor,Bespin,Kashyyyk,Corellia,Mandalore,Mimban,Umbara,Wobani,Death Star,Endor,Mygeeto,
+len:  690
+fuel: 400
+====
+Death Star,Scarif,Coruscant,Malachor,Bespin,Kashyyyk,Corellia,Mandalore,Mimban,Umbara,Wobani,Death Star,Mygeeto,Endor,
+len:  694
+fuel: 396
+====
+Death Star,Scarif,Coruscant,Malachor,Bespin,Kashyyyk,Corellia,Mimban,Mandalore,Umbara,Wobani,Death Star,Endor,Mygeeto,
+len:  690
+fuel: 400
+====
+Death Star,Scarif,Coruscant,Malachor,Bespin,Kashyyyk,Corellia,Mimban,Mandalore,Umbara,Wobani,Death Star,Mygeeto,Endor,
+len:  694
+fuel: 396
+====
+Death Star,Scarif,Coruscant,Malachor,Bespin,Kashyyyk,Mimban,Mandalore,Corellia,Umbara,Wobani,Death Star,Endor,Mygeeto,
+len:  684
+fuel: 400
+====
+Death Star,Scarif,Coruscant,Malachor,Bespin,Kashyyyk,Mimban,Mandalore,Corellia,Umbara,Wobani,Death Star,Mygeeto,Endor,
+len:  688
+fuel: 396
+====
+Death Star,Scarif,Coruscant,Malachor,Bespin,Mandalore,Mimban,Corellia,Kashyyyk,Umbara,Wobani,Death Star,Endor,Mygeeto,
+len:  690
+fuel: 400
+====
+Death Star,Scarif,Coruscant,Malachor,Bespin,Mandalore,Mimban,Corellia,Kashyyyk,Umbara,Wobani,Death Star,Mygeeto,Endor,
+len:  694
+fuel: 396
+====
+Death Star,Scarif,Coruscant,Malachor,Bespin,Corellia,Kashyyyk,Mandalore,Mimban,Umbara,Wobani,Death Star,Endor,Mygeeto,
+len:  698
+fuel: 400
+====
+Death Star,Scarif,Coruscant,Malachor,Bespin,Corellia,Mandalore,Mimban,Kashyyyk,Umbara,Wobani,Death Star,Endor,Mygeeto,
+len:  684
+fuel: 400
+====
+Death Star,Scarif,Coruscant,Malachor,Bespin,Corellia,Mandalore,Mimban,Kashyyyk,Umbara,Wobani,Death Star,Mygeeto,Endor,
+len:  688
+fuel: 396
+====
+Death Star,Scarif,Coruscant,Malachor,Bespin,Corellia,Mimban,Mandalore,Kashyyyk,Umbara,Wobani,Death Star,Endor,Mygeeto,
+len:  682
+fuel: 400
+====
+Death Star,Scarif,Coruscant,Malachor,Bespin,Corellia,Mimban,Mandalore,Kashyyyk,Umbara,Wobani,Death Star,Mygeeto,Endor,
+len:  686
+fuel: 396
+====
+Death Star,Scarif,Coruscant,Malachor,Bespin,Umbara,Kashyyyk,Mandalore,Mimban,Corellia,Wobani,Death Star,Endor,Mygeeto,
+len:  682
+fuel: 400
+====
+Death Star,Scarif,Coruscant,Malachor,Bespin,Umbara,Kashyyyk,Mandalore,Mimban,Corellia,Wobani,Death Star,Mygeeto,Endor,
+len:  686
+fuel: 396
+====
+Death Star,Scarif,Coruscant,Malachor,Bespin,Umbara,Kashyyyk,Corellia,Mandalore,Mimban,Wobani,Death Star,Endor,Mygeeto,
+len:  690
+fuel: 400
+====
+Death Star,Scarif,Coruscant,Malachor,Bespin,Umbara,Kashyyyk,Corellia,Mandalore,Mimban,Wobani,Death Star,Mygeeto,Endor,
+len:  694
+fuel: 396
+====
+Death Star,Scarif,Coruscant,Malachor,Bespin,Umbara,Kashyyyk,Corellia,Mimban,Mandalore,Wobani,Death Star,Endor,Mygeeto,
+len:  690
+fuel: 400
+====
+Death Star,Scarif,Coruscant,Malachor,Bespin,Umbara,Kashyyyk,Corellia,Mimban,Mandalore,Wobani,Death Star,Mygeeto,Endor,
+len:  694
+fuel: 396
+====
+Death Star,Scarif,Coruscant,Malachor,Bespin,Umbara,Kashyyyk,Mimban,Mandalore,Corellia,Wobani,Death Star,Endor,Mygeeto,
+len:  684
+fuel: 400
+====
+Death Star,Scarif,Coruscant,Malachor,Bespin,Umbara,Kashyyyk,Mimban,Mandalore,Corellia,Wobani,Death Star,Mygeeto,Endor,
+len:  688
+fuel: 396
+====
+Death Star,Scarif,Coruscant,Malachor,Bespin,Umbara,Mandalore,Mimban,Corellia,Kashyyyk,Wobani,Death Star,Endor,Mygeeto,
+len:  690
+fuel: 400
+====
+Death Star,Scarif,Coruscant,Malachor,Bespin,Umbara,Mandalore,Mimban,Corellia,Kashyyyk,Wobani,Death Star,Mygeeto,Endor,
+len:  694
+fuel: 396
+====
+Death Star,Scarif,Coruscant,Malachor,Bespin,Umbara,Corellia,Kashyyyk,Mandalore,Mimban,Wobani,Death Star,Endor,Mygeeto,
+len:  698
+fuel: 400
+====
+Death Star,Scarif,Coruscant,Malachor,Bespin,Umbara,Corellia,Mandalore,Mimban,Kashyyyk,Wobani,Death Star,Endor,Mygeeto,
+len:  684
+fuel: 400
+====
+Death Star,Scarif,Coruscant,Malachor,Bespin,Umbara,Corellia,Mandalore,Mimban,Kashyyyk,Wobani,Death Star,Mygeeto,Endor,
+len:  688
+fuel: 396
+====
+Death Star,Scarif,Coruscant,Malachor,Bespin,Umbara,Corellia,Mimban,Mandalore,Kashyyyk,Wobani,Death Star,Endor,Mygeeto,
+len:  682
+fuel: 400
+====
+Death Star,Scarif,Coruscant,Malachor,Bespin,Umbara,Corellia,Mimban,Mandalore,Kashyyyk,Wobani,Death Star,Mygeeto,Endor,
+len:  686
+fuel: 396
+====
+Death Star,Scarif,Coruscant,Malachor,Bespin,Umbara,Mimban,Mandalore,Kashyyyk,Corellia,Wobani,Death Star,Endor,Mygeeto,
+len:  698
+fuel: 400
+====
+Death Star,Scarif,Coruscant,Malachor,Bespin,Umbara,Mimban,Mandalore,Corellia,Kashyyyk,Wobani,Death Star,Endor,Mygeeto,
+len:  690
+fuel: 400
+====
+Death Star,Scarif,Coruscant,Malachor,Bespin,Umbara,Mimban,Mandalore,Corellia,Kashyyyk,Wobani,Death Star,Mygeeto,Endor,
+len:  694
+fuel: 396
+====
+Death Star,Scarif,Coruscant,Malachor,Bespin,Mimban,Mandalore,Kashyyyk,Corellia,Umbara,Wobani,Death Star,Endor,Mygeeto,
+len:  698
+fuel: 400
+====
+Death Star,Scarif,Coruscant,Malachor,Bespin,Mimban,Mandalore,Corellia,Kashyyyk,Umbara,Wobani,Death Star,Endor,Mygeeto,
+len:  690
+fuel: 400
+====
+Death Star,Scarif,Coruscant,Malachor,Bespin,Mimban,Mandalore,Corellia,Kashyyyk,Umbara,Wobani,Death Star,Mygeeto,Endor,
+len:  694
+fuel: 396
+====
+Death Star,Scarif,Coruscant,Malachor,Mandalore,Mimban,Corellia,Kashyyyk,Umbara,Bespin,Wobani,Death Star,Endor,Mygeeto,
+len:  698
+fuel: 400
+====
+Death Star,Scarif,Coruscant,Malachor,Corellia,Mandalore,Mimban,Kashyyyk,Umbara,Bespin,Wobani,Death Star,Endor,Mygeeto,
+len:  692
+fuel: 400
+====
+Death Star,Scarif,Coruscant,Malachor,Corellia,Mimban,Mandalore,Kashyyyk,Umbara,Bespin,Wobani,Death Star,Endor,Mygeeto,
+len:  690
+fuel: 400
+====
+Death Star,Scarif,Coruscant,Malachor,Corellia,Mimban,Mandalore,Kashyyyk,Umbara,Bespin,Wobani,Death Star,Mygeeto,Endor,
+len:  694
+fuel: 396
+====
+Death Star,Scarif,Coruscant,Malachor,Umbara,Kashyyyk,Mandalore,Mimban,Corellia,Bespin,Wobani,Death Star,Endor,Mygeeto,
+len:  690
+fuel: 400
+====
+Death Star,Scarif,Coruscant,Malachor,Umbara,Kashyyyk,Mandalore,Mimban,Corellia,Bespin,Wobani,Death Star,Mygeeto,Endor,
+len:  694
+fuel: 396
+====
+Death Star,Scarif,Coruscant,Malachor,Umbara,Kashyyyk,Corellia,Mandalore,Mimban,Bespin,Wobani,Death Star,Endor,Mygeeto,
+len:  698
+fuel: 400
+====
+Death Star,Scarif,Coruscant,Malachor,Umbara,Kashyyyk,Corellia,Mimban,Mandalore,Bespin,Wobani,Death Star,Endor,Mygeeto,
+len:  698
+fuel: 400
+====
+Death Star,Scarif,Coruscant,Malachor,Umbara,Kashyyyk,Mimban,Mandalore,Corellia,Bespin,Wobani,Death Star,Endor,Mygeeto,
+len:  692
+fuel: 400
+====
+Death Star,Scarif,Coruscant,Malachor,Umbara,Mandalore,Mimban,Corellia,Kashyyyk,Bespin,Wobani,Death Star,Endor,Mygeeto,
+len:  698
+fuel: 400
+====
+Death Star,Scarif,Coruscant,Malachor,Umbara,Corellia,Mandalore,Mimban,Kashyyyk,Bespin,Wobani,Death Star,Endor,Mygeeto,
+len:  692
+fuel: 400
+====
+Death Star,Scarif,Coruscant,Malachor,Umbara,Corellia,Mimban,Mandalore,Kashyyyk,Bespin,Wobani,Death Star,Endor,Mygeeto,
+len:  690
+fuel: 400
+====
+Death Star,Scarif,Coruscant,Malachor,Umbara,Corellia,Mimban,Mandalore,Kashyyyk,Bespin,Wobani,Death Star,Mygeeto,Endor,
+len:  694
+fuel: 396
+====
+Death Star,Scarif,Coruscant,Malachor,Umbara,Mimban,Mandalore,Corellia,Kashyyyk,Bespin,Wobani,Death Star,Endor,Mygeeto,
+len:  698
+fuel: 400
+====
+Death Star,Scarif,Coruscant,Malachor,Mimban,Mandalore,Corellia,Kashyyyk,Umbara,Bespin,Wobani,Death Star,Endor,Mygeeto,
+len:  698
+fuel: 400
+====
+Death Star,Scarif,Kashyyyk,Mandalore,Mimban,Corellia,Umbara,Bespin,Malachor,Coruscant,Death Star,Wobani,Mygeeto,Endor,
+len:  680
+fuel: 382
+====
+Death Star,Scarif,Bespin,Kashyyyk,Mandalore,Mimban,Corellia,Umbara,Malachor,Coruscant,Death Star,Wobani,Mygeeto,Endor,
+len:  680
+fuel: 382
+====
+Death Star,Scarif,Bespin,Corellia,Mimban,Mandalore,Kashyyyk,Umbara,Malachor,Coruscant,Death Star,Wobani,Mygeeto,Endor,
+len:  680
+fuel: 382
+====
+Death Star,Scarif,Bespin,Umbara,Kashyyyk,Mandalore,Mimban,Corellia,Malachor,Coruscant,Death Star,Wobani,Mygeeto,Endor,
+len:  680
+fuel: 382
+====
+Death Star,Scarif,Bespin,Umbara,Corellia,Mimban,Mandalore,Kashyyyk,Malachor,Coruscant,Death Star,Wobani,Mygeeto,Endor,
+len:  680
+fuel: 382
+====
+Death Star,Scarif,Malachor,Coruscant,Kashyyyk,Mandalore,Mimban,Corellia,Umbara,Bespin,Wobani,Death Star,Endor,Mygeeto,
+len:  690
+fuel: 400
+====
+Death Star,Scarif,Malachor,Coruscant,Kashyyyk,Mandalore,Mimban,Corellia,Umbara,Bespin,Wobani,Death Star,Mygeeto,Endor,
+len:  694
+fuel: 396
+====
+Death Star,Scarif,Malachor,Coruscant,Kashyyyk,Corellia,Mandalore,Mimban,Umbara,Bespin,Wobani,Death Star,Endor,Mygeeto,
+len:  698
+fuel: 400
+====
+Death Star,Scarif,Malachor,Coruscant,Kashyyyk,Corellia,Mimban,Mandalore,Umbara,Bespin,Wobani,Death Star,Endor,Mygeeto,
+len:  698
+fuel: 400
+====
+Death Star,Scarif,Malachor,Coruscant,Kashyyyk,Mimban,Mandalore,Corellia,Umbara,Bespin,Wobani,Death Star,Endor,Mygeeto,
+len:  692
+fuel: 400
+====
+Death Star,Scarif,Malachor,Coruscant,Bespin,Kashyyyk,Mandalore,Mimban,Corellia,Umbara,Wobani,Death Star,Endor,Mygeeto,
+len:  682
+fuel: 400
+====
+Death Star,Scarif,Malachor,Coruscant,Bespin,Kashyyyk,Mandalore,Mimban,Corellia,Umbara,Wobani,Death Star,Mygeeto,Endor,
+len:  686
+fuel: 396
+====
+Death Star,Scarif,Malachor,Coruscant,Bespin,Kashyyyk,Corellia,Mandalore,Mimban,Umbara,Wobani,Death Star,Endor,Mygeeto,
+len:  690
+fuel: 400
+====
+Death Star,Scarif,Malachor,Coruscant,Bespin,Kashyyyk,Corellia,Mandalore,Mimban,Umbara,Wobani,Death Star,Mygeeto,Endor,
+len:  694
+fuel: 396
+====
+Death Star,Scarif,Malachor,Coruscant,Bespin,Kashyyyk,Corellia,Mimban,Mandalore,Umbara,Wobani,Death Star,Endor,Mygeeto,
+len:  690
+fuel: 400
+====
+Death Star,Scarif,Malachor,Coruscant,Bespin,Kashyyyk,Corellia,Mimban,Mandalore,Umbara,Wobani,Death Star,Mygeeto,Endor,
+len:  694
+fuel: 396
+====
+Death Star,Scarif,Malachor,Coruscant,Bespin,Kashyyyk,Mimban,Mandalore,Corellia,Umbara,Wobani,Death Star,Endor,Mygeeto,
+len:  684
+fuel: 400
+====
+Death Star,Scarif,Malachor,Coruscant,Bespin,Kashyyyk,Mimban,Mandalore,Corellia,Umbara,Wobani,Death Star,Mygeeto,Endor,
+len:  688
+fuel: 396
+====
+Death Star,Scarif,Malachor,Coruscant,Bespin,Mandalore,Mimban,Corellia,Kashyyyk,Umbara,Wobani,Death Star,Endor,Mygeeto,
+len:  690
+fuel: 400
+====
+Death Star,Scarif,Malachor,Coruscant,Bespin,Mandalore,Mimban,Corellia,Kashyyyk,Umbara,Wobani,Death Star,Mygeeto,Endor,
+len:  694
+fuel: 396
+====
+Death Star,Scarif,Malachor,Coruscant,Bespin,Corellia,Kashyyyk,Mandalore,Mimban,Umbara,Wobani,Death Star,Endor,Mygeeto,
+len:  698
+fuel: 400
+====
+Death Star,Scarif,Malachor,Coruscant,Bespin,Corellia,Mandalore,Mimban,Kashyyyk,Umbara,Wobani,Death Star,Endor,Mygeeto,
+len:  684
+fuel: 400
+====
+Death Star,Scarif,Malachor,Coruscant,Bespin,Corellia,Mandalore,Mimban,Kashyyyk,Umbara,Wobani,Death Star,Mygeeto,Endor,
+len:  688
+fuel: 396
+====
+Death Star,Scarif,Malachor,Coruscant,Bespin,Corellia,Mimban,Mandalore,Kashyyyk,Umbara,Wobani,Death Star,Endor,Mygeeto,
+len:  682
+fuel: 400
+====
+Death Star,Scarif,Malachor,Coruscant,Bespin,Corellia,Mimban,Mandalore,Kashyyyk,Umbara,Wobani,Death Star,Mygeeto,Endor,
+len:  686
+fuel: 396
+====
+Death Star,Scarif,Malachor,Coruscant,Bespin,Umbara,Kashyyyk,Mandalore,Mimban,Corellia,Wobani,Death Star,Endor,Mygeeto,
+len:  682
+fuel: 400
+====
+Death Star,Scarif,Malachor,Coruscant,Bespin,Umbara,Kashyyyk,Mandalore,Mimban,Corellia,Wobani,Death Star,Mygeeto,Endor,
+len:  686
+fuel: 396
+====
+Death Star,Scarif,Malachor,Coruscant,Bespin,Umbara,Kashyyyk,Corellia,Mandalore,Mimban,Wobani,Death Star,Endor,Mygeeto,
+len:  690
+fuel: 400
+====
+Death Star,Scarif,Malachor,Coruscant,Bespin,Umbara,Kashyyyk,Corellia,Mandalore,Mimban,Wobani,Death Star,Mygeeto,Endor,
+len:  694
+fuel: 396
+====
+Death Star,Scarif,Malachor,Coruscant,Bespin,Umbara,Kashyyyk,Corellia,Mimban,Mandalore,Wobani,Death Star,Endor,Mygeeto,
+len:  690
+fuel: 400
+====
+Death Star,Scarif,Malachor,Coruscant,Bespin,Umbara,Kashyyyk,Corellia,Mimban,Mandalore,Wobani,Death Star,Mygeeto,Endor,
+len:  694
+fuel: 396
+====
+Death Star,Scarif,Malachor,Coruscant,Bespin,Umbara,Kashyyyk,Mimban,Mandalore,Corellia,Wobani,Death Star,Endor,Mygeeto,
+len:  684
+fuel: 400
+====
+Death Star,Scarif,Malachor,Coruscant,Bespin,Umbara,Kashyyyk,Mimban,Mandalore,Corellia,Wobani,Death Star,Mygeeto,Endor,
+len:  688
+fuel: 396
+====
+Death Star,Scarif,Malachor,Coruscant,Bespin,Umbara,Mandalore,Mimban,Corellia,Kashyyyk,Wobani,Death Star,Endor,Mygeeto,
+len:  690
+fuel: 400
+====
+Death Star,Scarif,Malachor,Coruscant,Bespin,Umbara,Mandalore,Mimban,Corellia,Kashyyyk,Wobani,Death Star,Mygeeto,Endor,
+len:  694
+fuel: 396
+====
+Death Star,Scarif,Malachor,Coruscant,Bespin,Umbara,Corellia,Kashyyyk,Mandalore,Mimban,Wobani,Death Star,Endor,Mygeeto,
+len:  698
+fuel: 400
+====
+Death Star,Scarif,Malachor,Coruscant,Bespin,Umbara,Corellia,Mandalore,Mimban,Kashyyyk,Wobani,Death Star,Endor,Mygeeto,
+len:  684
+fuel: 400
+====
+Death Star,Scarif,Malachor,Coruscant,Bespin,Umbara,Corellia,Mandalore,Mimban,Kashyyyk,Wobani,Death Star,Mygeeto,Endor,
+len:  688
+fuel: 396
+====
+Death Star,Scarif,Malachor,Coruscant,Bespin,Umbara,Corellia,Mimban,Mandalore,Kashyyyk,Wobani,Death Star,Endor,Mygeeto,
+len:  682
+fuel: 400
+====
+Death Star,Scarif,Malachor,Coruscant,Bespin,Umbara,Corellia,Mimban,Mandalore,Kashyyyk,Wobani,Death Star,Mygeeto,Endor,
+len:  686
+fuel: 396
+====
+Death Star,Scarif,Malachor,Coruscant,Bespin,Umbara,Mimban,Mandalore,Kashyyyk,Corellia,Wobani,Death Star,Endor,Mygeeto,
+len:  698
+fuel: 400
+====
+Death Star,Scarif,Malachor,Coruscant,Bespin,Umbara,Mimban,Mandalore,Corellia,Kashyyyk,Wobani,Death Star,Endor,Mygeeto,
+len:  690
+fuel: 400
+====
+Death Star,Scarif,Malachor,Coruscant,Bespin,Umbara,Mimban,Mandalore,Corellia,Kashyyyk,Wobani,Death Star,Mygeeto,Endor,
+len:  694
+fuel: 396
+====
+Death Star,Scarif,Malachor,Coruscant,Bespin,Mimban,Mandalore,Kashyyyk,Corellia,Umbara,Wobani,Death Star,Endor,Mygeeto,
+len:  698
+fuel: 400
+====
+Death Star,Scarif,Malachor,Coruscant,Bespin,Mimban,Mandalore,Corellia,Kashyyyk,Umbara,Wobani,Death Star,Endor,Mygeeto,
+len:  690
+fuel: 400
+====
+Death Star,Scarif,Malachor,Coruscant,Bespin,Mimban,Mandalore,Corellia,Kashyyyk,Umbara,Wobani,Death Star,Mygeeto,Endor,
+len:  694
+fuel: 396
+====
+Death Star,Scarif,Malachor,Coruscant,Mandalore,Mimban,Corellia,Kashyyyk,Umbara,Bespin,Wobani,Death Star,Endor,Mygeeto,
+len:  698
+fuel: 400
+====
+Death Star,Scarif,Malachor,Coruscant,Corellia,Mandalore,Mimban,Kashyyyk,Umbara,Bespin,Wobani,Death Star,Endor,Mygeeto,
+len:  692
+fuel: 400
+====
+Death Star,Scarif,Malachor,Coruscant,Corellia,Mimban,Mandalore,Kashyyyk,Umbara,Bespin,Wobani,Death Star,Endor,Mygeeto,
+len:  690
+fuel: 400
+====
+Death Star,Scarif,Malachor,Coruscant,Corellia,Mimban,Mandalore,Kashyyyk,Umbara,Bespin,Wobani,Death Star,Mygeeto,Endor,
+len:  694
+fuel: 396
+====
+Death Star,Scarif,Malachor,Coruscant,Umbara,Kashyyyk,Mandalore,Mimban,Corellia,Bespin,Wobani,Death Star,Endor,Mygeeto,
+len:  690
+fuel: 400
+====
+Death Star,Scarif,Malachor,Coruscant,Umbara,Kashyyyk,Mandalore,Mimban,Corellia,Bespin,Wobani,Death Star,Mygeeto,Endor,
+len:  694
+fuel: 396
+====
+Death Star,Scarif,Malachor,Coruscant,Umbara,Kashyyyk,Corellia,Mandalore,Mimban,Bespin,Wobani,Death Star,Endor,Mygeeto,
+len:  698
+fuel: 400
+====
+Death Star,Scarif,Malachor,Coruscant,Umbara,Kashyyyk,Corellia,Mimban,Mandalore,Bespin,Wobani,Death Star,Endor,Mygeeto,
+len:  698
+fuel: 400
+====
+Death Star,Scarif,Malachor,Coruscant,Umbara,Kashyyyk,Mimban,Mandalore,Corellia,Bespin,Wobani,Death Star,Endor,Mygeeto,
+len:  692
+fuel: 400
+====
+Death Star,Scarif,Malachor,Coruscant,Umbara,Mandalore,Mimban,Corellia,Kashyyyk,Bespin,Wobani,Death Star,Endor,Mygeeto,
+len:  698
+fuel: 400
+====
+Death Star,Scarif,Malachor,Coruscant,Umbara,Corellia,Mandalore,Mimban,Kashyyyk,Bespin,Wobani,Death Star,Endor,Mygeeto,
+len:  692
+fuel: 400
+====
+Death Star,Scarif,Malachor,Coruscant,Umbara,Corellia,Mimban,Mandalore,Kashyyyk,Bespin,Wobani,Death Star,Endor,Mygeeto,
+len:  690
+fuel: 400
+====
+Death Star,Scarif,Malachor,Coruscant,Umbara,Corellia,Mimban,Mandalore,Kashyyyk,Bespin,Wobani,Death Star,Mygeeto,Endor,
+len:  694
+fuel: 396
+====
+Death Star,Scarif,Malachor,Coruscant,Umbara,Mimban,Mandalore,Corellia,Kashyyyk,Bespin,Wobani,Death Star,Endor,Mygeeto,
+len:  698
+fuel: 400
+====
+Death Star,Scarif,Malachor,Coruscant,Mimban,Mandalore,Corellia,Kashyyyk,Umbara,Bespin,Wobani,Death Star,Endor,Mygeeto,
+len:  698
+fuel: 400
+====
+Death Star,Scarif,Corellia,Mimban,Mandalore,Kashyyyk,Umbara,Bespin,Malachor,Coruscant,Death Star,Wobani,Mygeeto,Endor,
+len:  680
+fuel: 382
+====
+Death Star,Scarif,Umbara,Kashyyyk,Mandalore,Mimban,Corellia,Bespin,Malachor,Coruscant,Death Star,Wobani,Mygeeto,Endor,
+len:  680
+fuel: 382
+====
+Death Star,Scarif,Umbara,Corellia,Mimban,Mandalore,Kashyyyk,Bespin,Malachor,Coruscant,Death Star,Wobani,Mygeeto,Endor,
+len:  680
+fuel: 382
+====
+Death Star,Malachor,Coruscant,Scarif,Bespin,Kashyyyk,Mandalore,Mimban,Corellia,Umbara,Wobani,Death Star,Endor,Mygeeto,
+len:  694
+fuel: 400
+====
+Death Star,Malachor,Coruscant,Scarif,Bespin,Kashyyyk,Mimban,Mandalore,Corellia,Umbara,Wobani,Death Star,Endor,Mygeeto,
+len:  696
+fuel: 400
+====
+Death Star,Malachor,Coruscant,Scarif,Bespin,Corellia,Mandalore,Mimban,Kashyyyk,Umbara,Wobani,Death Star,Endor,Mygeeto,
+len:  696
+fuel: 400
+====
+Death Star,Malachor,Coruscant,Scarif,Bespin,Corellia,Mimban,Mandalore,Kashyyyk,Umbara,Wobani,Death Star,Endor,Mygeeto,
+len:  694
+fuel: 400
+====
+Death Star,Malachor,Coruscant,Scarif,Bespin,Umbara,Kashyyyk,Mandalore,Mimban,Corellia,Wobani,Death Star,Endor,Mygeeto,
+len:  694
+fuel: 400
+====
+Death Star,Malachor,Coruscant,Scarif,Bespin,Umbara,Kashyyyk,Mimban,Mandalore,Corellia,Wobani,Death Star,Endor,Mygeeto,
+len:  696
+fuel: 400
+====
+Death Star,Malachor,Coruscant,Scarif,Bespin,Umbara,Corellia,Mandalore,Mimban,Kashyyyk,Wobani,Death Star,Endor,Mygeeto,
+len:  696
+fuel: 400
+====
+Death Star,Malachor,Coruscant,Scarif,Bespin,Umbara,Corellia,Mimban,Mandalore,Kashyyyk,Wobani,Death Star,Endor,Mygeeto,
+len:  694
+fuel: 400
+====
+Death Star,Malachor,Scarif,Coruscant,Bespin,Kashyyyk,Mandalore,Mimban,Corellia,Umbara,Wobani,Death Star,Endor,Mygeeto,
+len:  696
+fuel: 400
+====
+Death Star,Malachor,Scarif,Coruscant,Bespin,Kashyyyk,Mimban,Mandalore,Corellia,Umbara,Wobani,Death Star,Endor,Mygeeto,
+len:  698
+fuel: 400
+====
+Death Star,Malachor,Scarif,Coruscant,Bespin,Corellia,Mandalore,Mimban,Kashyyyk,Umbara,Wobani,Death Star,Endor,Mygeeto,
+len:  698
+fuel: 400
+====
+Death Star,Malachor,Scarif,Coruscant,Bespin,Corellia,Mimban,Mandalore,Kashyyyk,Umbara,Wobani,Death Star,Endor,Mygeeto,
+len:  696
+fuel: 400
+====
+Death Star,Malachor,Scarif,Coruscant,Bespin,Umbara,Kashyyyk,Mandalore,Mimban,Corellia,Wobani,Death Star,Endor,Mygeeto,
+len:  696
+fuel: 400
+====
+Death Star,Malachor,Scarif,Coruscant,Bespin,Umbara,Kashyyyk,Mimban,Mandalore,Corellia,Wobani,Death Star,Endor,Mygeeto,
+len:  698
+fuel: 400
+====
+Death Star,Malachor,Scarif,Coruscant,Bespin,Umbara,Corellia,Mandalore,Mimban,Kashyyyk,Wobani,Death Star,Endor,Mygeeto,
+len:  698
+fuel: 400
+====
+Death Star,Malachor,Scarif,Coruscant,Bespin,Umbara,Corellia,Mimban,Mandalore,Kashyyyk,Wobani,Death Star,Endor,Mygeeto,
+len:  696
+fuel: 400
+====
+Death Star,Wobani,Kashyyyk,Mandalore,Mimban,Corellia,Umbara,Bespin,Coruscant,Scarif,Malachor,Death Star,Endor,Mygeeto,
+len:  696
+fuel: 400
+====
+Death Star,Wobani,Kashyyyk,Mandalore,Mimban,Corellia,Umbara,Bespin,Coruscant,Malachor,Scarif,Death Star,Endor,Mygeeto,
+len:  682
+fuel: 400
+====
+Death Star,Wobani,Kashyyyk,Mandalore,Mimban,Corellia,Umbara,Bespin,Coruscant,Malachor,Scarif,Death Star,Mygeeto,Endor,
+len:  686
+fuel: 396
+====
+Death Star,Wobani,Kashyyyk,Mandalore,Mimban,Corellia,Umbara,Bespin,Scarif,Coruscant,Malachor,Death Star,Endor,Mygeeto,
+len:  694
+fuel: 400
+====
+Death Star,Wobani,Kashyyyk,Mandalore,Mimban,Corellia,Umbara,Bespin,Scarif,Malachor,Coruscant,Death Star,Endor,Mygeeto,
+len:  688
+fuel: 400
+====
+Death Star,Wobani,Kashyyyk,Mandalore,Mimban,Corellia,Umbara,Bespin,Scarif,Malachor,Coruscant,Death Star,Mygeeto,Endor,
+len:  692
+fuel: 396
+====
+Death Star,Wobani,Kashyyyk,Mandalore,Mimban,Corellia,Umbara,Bespin,Malachor,Coruscant,Scarif,Death Star,Endor,Mygeeto,
+len:  682
+fuel: 400
+====
+Death Star,Wobani,Kashyyyk,Mandalore,Mimban,Corellia,Umbara,Bespin,Malachor,Coruscant,Scarif,Death Star,Mygeeto,Endor,
+len:  686
+fuel: 396
+====
+Death Star,Wobani,Kashyyyk,Mandalore,Mimban,Corellia,Umbara,Bespin,Malachor,Scarif,Coruscant,Death Star,Endor,Mygeeto,
+len:  690
+fuel: 400
+====
+Death Star,Wobani,Kashyyyk,Mandalore,Mimban,Corellia,Umbara,Bespin,Malachor,Scarif,Coruscant,Death Star,Mygeeto,Endor,
+len:  694
+fuel: 396
+====
+Death Star,Wobani,Kashyyyk,Corellia,Mandalore,Mimban,Umbara,Bespin,Coruscant,Malachor,Scarif,Death Star,Endor,Mygeeto,
+len:  690
+fuel: 400
+====
+Death Star,Wobani,Kashyyyk,Corellia,Mandalore,Mimban,Umbara,Bespin,Coruscant,Malachor,Scarif,Death Star,Mygeeto,Endor,
+len:  694
+fuel: 396
+====
+Death Star,Wobani,Kashyyyk,Corellia,Mandalore,Mimban,Umbara,Bespin,Scarif,Malachor,Coruscant,Death Star,Endor,Mygeeto,
+len:  696
+fuel: 400
+====
+Death Star,Wobani,Kashyyyk,Corellia,Mandalore,Mimban,Umbara,Bespin,Malachor,Coruscant,Scarif,Death Star,Endor,Mygeeto,
+len:  690
+fuel: 400
+====
+Death Star,Wobani,Kashyyyk,Corellia,Mandalore,Mimban,Umbara,Bespin,Malachor,Coruscant,Scarif,Death Star,Mygeeto,Endor,
+len:  694
+fuel: 396
+====
+Death Star,Wobani,Kashyyyk,Corellia,Mandalore,Mimban,Umbara,Bespin,Malachor,Scarif,Coruscant,Death Star,Endor,Mygeeto,
+len:  698
+fuel: 400
+====
+Death Star,Wobani,Kashyyyk,Corellia,Mimban,Mandalore,Umbara,Bespin,Coruscant,Malachor,Scarif,Death Star,Endor,Mygeeto,
+len:  690
+fuel: 400
+====
+Death Star,Wobani,Kashyyyk,Corellia,Mimban,Mandalore,Umbara,Bespin,Coruscant,Malachor,Scarif,Death Star,Mygeeto,Endor,
+len:  694
+fuel: 396
+====
+Death Star,Wobani,Kashyyyk,Corellia,Mimban,Mandalore,Umbara,Bespin,Scarif,Malachor,Coruscant,Death Star,Endor,Mygeeto,
+len:  696
+fuel: 400
+====
+Death Star,Wobani,Kashyyyk,Corellia,Mimban,Mandalore,Umbara,Bespin,Malachor,Coruscant,Scarif,Death Star,Endor,Mygeeto,
+len:  690
+fuel: 400
+====
+Death Star,Wobani,Kashyyyk,Corellia,Mimban,Mandalore,Umbara,Bespin,Malachor,Coruscant,Scarif,Death Star,Mygeeto,Endor,
+len:  694
+fuel: 396
+====
+Death Star,Wobani,Kashyyyk,Corellia,Mimban,Mandalore,Umbara,Bespin,Malachor,Scarif,Coruscant,Death Star,Endor,Mygeeto,
+len:  698
+fuel: 400
+====
+Death Star,Wobani,Kashyyyk,Mimban,Mandalore,Corellia,Umbara,Bespin,Coruscant,Scarif,Malachor,Death Star,Endor,Mygeeto,
+len:  698
+fuel: 400
+====
+Death Star,Wobani,Kashyyyk,Mimban,Mandalore,Corellia,Umbara,Bespin,Coruscant,Malachor,Scarif,Death Star,Endor,Mygeeto,
+len:  684
+fuel: 400
+====
+Death Star,Wobani,Kashyyyk,Mimban,Mandalore,Corellia,Umbara,Bespin,Coruscant,Malachor,Scarif,Death Star,Mygeeto,Endor,
+len:  688
+fuel: 396
+====
+Death Star,Wobani,Kashyyyk,Mimban,Mandalore,Corellia,Umbara,Bespin,Scarif,Coruscant,Malachor,Death Star,Endor,Mygeeto,
+len:  696
+fuel: 400
+====
+Death Star,Wobani,Kashyyyk,Mimban,Mandalore,Corellia,Umbara,Bespin,Scarif,Malachor,Coruscant,Death Star,Endor,Mygeeto,
+len:  690
+fuel: 400
+====
+Death Star,Wobani,Kashyyyk,Mimban,Mandalore,Corellia,Umbara,Bespin,Scarif,Malachor,Coruscant,Death Star,Mygeeto,Endor,
+len:  694
+fuel: 396
+====
+Death Star,Wobani,Kashyyyk,Mimban,Mandalore,Corellia,Umbara,Bespin,Malachor,Coruscant,Scarif,Death Star,Endor,Mygeeto,
+len:  684
+fuel: 400
+====
+Death Star,Wobani,Kashyyyk,Mimban,Mandalore,Corellia,Umbara,Bespin,Malachor,Coruscant,Scarif,Death Star,Mygeeto,Endor,
+len:  688
+fuel: 396
+====
+Death Star,Wobani,Kashyyyk,Mimban,Mandalore,Corellia,Umbara,Bespin,Malachor,Scarif,Coruscant,Death Star,Endor,Mygeeto,
+len:  692
+fuel: 400
+====
+Death Star,Wobani,Bespin,Kashyyyk,Mandalore,Mimban,Corellia,Umbara,Coruscant,Malachor,Scarif,Death Star,Endor,Mygeeto,
+len:  690
+fuel: 400
+====
+Death Star,Wobani,Bespin,Kashyyyk,Mandalore,Mimban,Corellia,Umbara,Coruscant,Malachor,Scarif,Death Star,Mygeeto,Endor,
+len:  694
+fuel: 396
+====
+Death Star,Wobani,Bespin,Kashyyyk,Mandalore,Mimban,Corellia,Umbara,Scarif,Malachor,Coruscant,Death Star,Endor,Mygeeto,
+len:  696
+fuel: 400
+====
+Death Star,Wobani,Bespin,Kashyyyk,Mandalore,Mimban,Corellia,Umbara,Malachor,Coruscant,Scarif,Death Star,Endor,Mygeeto,
+len:  690
+fuel: 400
+====
+Death Star,Wobani,Bespin,Kashyyyk,Mandalore,Mimban,Corellia,Umbara,Malachor,Coruscant,Scarif,Death Star,Mygeeto,Endor,
+len:  694
+fuel: 396
+====
+Death Star,Wobani,Bespin,Kashyyyk,Mandalore,Mimban,Corellia,Umbara,Malachor,Scarif,Coruscant,Death Star,Endor,Mygeeto,
+len:  698
+fuel: 400
+====
+Death Star,Wobani,Bespin,Kashyyyk,Corellia,Mandalore,Mimban,Umbara,Coruscant,Malachor,Scarif,Death Star,Endor,Mygeeto,
+len:  698
+fuel: 400
+====
+Death Star,Wobani,Bespin,Kashyyyk,Corellia,Mandalore,Mimban,Umbara,Malachor,Coruscant,Scarif,Death Star,Endor,Mygeeto,
+len:  698
+fuel: 400
+====
+Death Star,Wobani,Bespin,Kashyyyk,Corellia,Mimban,Mandalore,Umbara,Coruscant,Malachor,Scarif,Death Star,Endor,Mygeeto,
+len:  698
+fuel: 400
+====
+Death Star,Wobani,Bespin,Kashyyyk,Corellia,Mimban,Mandalore,Umbara,Malachor,Coruscant,Scarif,Death Star,Endor,Mygeeto,
+len:  698
+fuel: 400
+====
+Death Star,Wobani,Bespin,Kashyyyk,Mimban,Mandalore,Corellia,Umbara,Coruscant,Malachor,Scarif,Death Star,Endor,Mygeeto,
+len:  692
+fuel: 400
+====
+Death Star,Wobani,Bespin,Kashyyyk,Mimban,Mandalore,Corellia,Umbara,Scarif,Malachor,Coruscant,Death Star,Endor,Mygeeto,
+len:  698
+fuel: 400
+====
+Death Star,Wobani,Bespin,Kashyyyk,Mimban,Mandalore,Corellia,Umbara,Malachor,Coruscant,Scarif,Death Star,Endor,Mygeeto,
+len:  692
+fuel: 400
+====
+Death Star,Wobani,Bespin,Mandalore,Mimban,Corellia,Kashyyyk,Umbara,Coruscant,Malachor,Scarif,Death Star,Endor,Mygeeto,
+len:  698
+fuel: 400
+====
+Death Star,Wobani,Bespin,Mandalore,Mimban,Corellia,Kashyyyk,Umbara,Malachor,Coruscant,Scarif,Death Star,Endor,Mygeeto,
+len:  698
+fuel: 400
+====
+Death Star,Wobani,Bespin,Corellia,Mandalore,Mimban,Kashyyyk,Umbara,Coruscant,Malachor,Scarif,Death Star,Endor,Mygeeto,
+len:  692
+fuel: 400
+====
+Death Star,Wobani,Bespin,Corellia,Mandalore,Mimban,Kashyyyk,Umbara,Scarif,Malachor,Coruscant,Death Star,Endor,Mygeeto,
+len:  698
+fuel: 400
+====
+Death Star,Wobani,Bespin,Corellia,Mandalore,Mimban,Kashyyyk,Umbara,Malachor,Coruscant,Scarif,Death Star,Endor,Mygeeto,
+len:  692
+fuel: 400
+====
+Death Star,Wobani,Bespin,Corellia,Mimban,Mandalore,Kashyyyk,Umbara,Coruscant,Malachor,Scarif,Death Star,Endor,Mygeeto,
+len:  690
+fuel: 400
+====
+Death Star,Wobani,Bespin,Corellia,Mimban,Mandalore,Kashyyyk,Umbara,Coruscant,Malachor,Scarif,Death Star,Mygeeto,Endor,
+len:  694
+fuel: 396
+====
+Death Star,Wobani,Bespin,Corellia,Mimban,Mandalore,Kashyyyk,Umbara,Scarif,Malachor,Coruscant,Death Star,Endor,Mygeeto,
+len:  696
+fuel: 400
+====
+Death Star,Wobani,Bespin,Corellia,Mimban,Mandalore,Kashyyyk,Umbara,Malachor,Coruscant,Scarif,Death Star,Endor,Mygeeto,
+len:  690
+fuel: 400
+====
+Death Star,Wobani,Bespin,Corellia,Mimban,Mandalore,Kashyyyk,Umbara,Malachor,Coruscant,Scarif,Death Star,Mygeeto,Endor,
+len:  694
+fuel: 396
+====
+Death Star,Wobani,Bespin,Corellia,Mimban,Mandalore,Kashyyyk,Umbara,Malachor,Scarif,Coruscant,Death Star,Endor,Mygeeto,
+len:  698
+fuel: 400
+====
+Death Star,Wobani,Bespin,Umbara,Kashyyyk,Mandalore,Mimban,Corellia,Coruscant,Malachor,Scarif,Death Star,Endor,Mygeeto,
+len:  690
+fuel: 400
+====
+Death Star,Wobani,Bespin,Umbara,Kashyyyk,Mandalore,Mimban,Corellia,Coruscant,Malachor,Scarif,Death Star,Mygeeto,Endor,
+len:  694
+fuel: 396
+====
+Death Star,Wobani,Bespin,Umbara,Kashyyyk,Mandalore,Mimban,Corellia,Scarif,Malachor,Coruscant,Death Star,Endor,Mygeeto,
+len:  696
+fuel: 400
+====
+Death Star,Wobani,Bespin,Umbara,Kashyyyk,Mandalore,Mimban,Corellia,Malachor,Coruscant,Scarif,Death Star,Endor,Mygeeto,
+len:  690
+fuel: 400
+====
+Death Star,Wobani,Bespin,Umbara,Kashyyyk,Mandalore,Mimban,Corellia,Malachor,Coruscant,Scarif,Death Star,Mygeeto,Endor,
+len:  694
+fuel: 396
+====
+Death Star,Wobani,Bespin,Umbara,Kashyyyk,Mandalore,Mimban,Corellia,Malachor,Scarif,Coruscant,Death Star,Endor,Mygeeto,
+len:  698
+fuel: 400
+====
+Death Star,Wobani,Bespin,Umbara,Kashyyyk,Corellia,Mandalore,Mimban,Coruscant,Malachor,Scarif,Death Star,Endor,Mygeeto,
+len:  698
+fuel: 400
+====
+Death Star,Wobani,Bespin,Umbara,Kashyyyk,Corellia,Mandalore,Mimban,Malachor,Coruscant,Scarif,Death Star,Endor,Mygeeto,
+len:  698
+fuel: 400
+====
+Death Star,Wobani,Bespin,Umbara,Kashyyyk,Corellia,Mandalore,Mimban,Mygeeto,Endor,Death Star,Coruscant,Scarif,Malachor,
+len:  691
+fuel: 405
+====
+Death Star,Wobani,Bespin,Umbara,Kashyyyk,Corellia,Mandalore,Mimban,Mygeeto,Endor,Death Star,Coruscant,Malachor,Scarif,
+len:  683
+fuel: 413
+====
+Death Star,Wobani,Bespin,Umbara,Kashyyyk,Corellia,Mandalore,Mimban,Mygeeto,Endor,Death Star,Scarif,Coruscant,Malachor,
+len:  683
+fuel: 413
+====
+Death Star,Wobani,Bespin,Umbara,Kashyyyk,Corellia,Mandalore,Mimban,Mygeeto,Endor,Death Star,Scarif,Malachor,Coruscant,
+len:  680
+fuel: 416
+====
+Death Star,Wobani,Bespin,Umbara,Kashyyyk,Corellia,Mandalore,Mimban,Mygeeto,Endor,Death Star,Malachor,Coruscant,Scarif,
+len:  689
+fuel: 407
+====
+Death Star,Wobani,Bespin,Umbara,Kashyyyk,Corellia,Mandalore,Mimban,Mygeeto,Endor,Death Star,Malachor,Scarif,Coruscant,
+len:  694
+fuel: 402
+====
+Death Star,Wobani,Bespin,Umbara,Kashyyyk,Corellia,Mimban,Mandalore,Coruscant,Malachor,Scarif,Death Star,Endor,Mygeeto,
+len:  698
+fuel: 400
+====
+Death Star,Wobani,Bespin,Umbara,Kashyyyk,Corellia,Mimban,Mandalore,Malachor,Coruscant,Scarif,Death Star,Endor,Mygeeto,
+len:  698
+fuel: 400
+====
+Death Star,Wobani,Bespin,Umbara,Kashyyyk,Mimban,Mandalore,Corellia,Coruscant,Malachor,Scarif,Death Star,Endor,Mygeeto,
+len:  692
+fuel: 400
+====
+Death Star,Wobani,Bespin,Umbara,Kashyyyk,Mimban,Mandalore,Corellia,Scarif,Malachor,Coruscant,Death Star,Endor,Mygeeto,
+len:  698
+fuel: 400
+====
+Death Star,Wobani,Bespin,Umbara,Kashyyyk,Mimban,Mandalore,Corellia,Malachor,Coruscant,Scarif,Death Star,Endor,Mygeeto,
+len:  692
+fuel: 400
+====
+Death Star,Wobani,Bespin,Umbara,Mandalore,Mimban,Corellia,Kashyyyk,Coruscant,Malachor,Scarif,Death Star,Endor,Mygeeto,
+len:  698
+fuel: 400
+====
+Death Star,Wobani,Bespin,Umbara,Mandalore,Mimban,Corellia,Kashyyyk,Malachor,Coruscant,Scarif,Death Star,Endor,Mygeeto,
+len:  698
+fuel: 400
+====
+Death Star,Wobani,Bespin,Umbara,Corellia,Mandalore,Mimban,Kashyyyk,Coruscant,Malachor,Scarif,Death Star,Endor,Mygeeto,
+len:  692
+fuel: 400
+====
+Death Star,Wobani,Bespin,Umbara,Corellia,Mandalore,Mimban,Kashyyyk,Scarif,Malachor,Coruscant,Death Star,Endor,Mygeeto,
+len:  698
+fuel: 400
+====
+Death Star,Wobani,Bespin,Umbara,Corellia,Mandalore,Mimban,Kashyyyk,Malachor,Coruscant,Scarif,Death Star,Endor,Mygeeto,
+len:  692
+fuel: 400
+====
+Death Star,Wobani,Bespin,Umbara,Corellia,Mimban,Mandalore,Kashyyyk,Coruscant,Malachor,Scarif,Death Star,Endor,Mygeeto,
+len:  690
+fuel: 400
+====
+Death Star,Wobani,Bespin,Umbara,Corellia,Mimban,Mandalore,Kashyyyk,Coruscant,Malachor,Scarif,Death Star,Mygeeto,Endor,
+len:  694
+fuel: 396
+====
+Death Star,Wobani,Bespin,Umbara,Corellia,Mimban,Mandalore,Kashyyyk,Scarif,Malachor,Coruscant,Death Star,Endor,Mygeeto,
+len:  696
+fuel: 400
+====
+Death Star,Wobani,Bespin,Umbara,Corellia,Mimban,Mandalore,Kashyyyk,Malachor,Coruscant,Scarif,Death Star,Endor,Mygeeto,
+len:  690
+fuel: 400
+====
+Death Star,Wobani,Bespin,Umbara,Corellia,Mimban,Mandalore,Kashyyyk,Malachor,Coruscant,Scarif,Death Star,Mygeeto,Endor,
+len:  694
+fuel: 396
+====
+Death Star,Wobani,Bespin,Umbara,Corellia,Mimban,Mandalore,Kashyyyk,Malachor,Scarif,Coruscant,Death Star,Endor,Mygeeto,
+len:  698
+fuel: 400
+====
+Death Star,Wobani,Bespin,Umbara,Mimban,Mandalore,Corellia,Kashyyyk,Coruscant,Malachor,Scarif,Death Star,Endor,Mygeeto,
+len:  698
+fuel: 400
+====
+Death Star,Wobani,Bespin,Umbara,Mimban,Mandalore,Corellia,Kashyyyk,Malachor,Coruscant,Scarif,Death Star,Endor,Mygeeto,
+len:  698
+fuel: 400
+====
+Death Star,Wobani,Bespin,Mimban,Mandalore,Corellia,Kashyyyk,Umbara,Coruscant,Malachor,Scarif,Death Star,Endor,Mygeeto,
+len:  698
+fuel: 400
+====
+Death Star,Wobani,Bespin,Mimban,Mandalore,Corellia,Kashyyyk,Umbara,Malachor,Coruscant,Scarif,Death Star,Endor,Mygeeto,
+len:  698
+fuel: 400
+====
+Death Star,Wobani,Mandalore,Mimban,Corellia,Kashyyyk,Umbara,Bespin,Coruscant,Malachor,Scarif,Death Star,Endor,Mygeeto,
+len:  690
+fuel: 400
+====
+Death Star,Wobani,Mandalore,Mimban,Corellia,Kashyyyk,Umbara,Bespin,Coruscant,Malachor,Scarif,Death Star,Mygeeto,Endor,
+len:  694
+fuel: 396
+====
+Death Star,Wobani,Mandalore,Mimban,Corellia,Kashyyyk,Umbara,Bespin,Scarif,Malachor,Coruscant,Death Star,Endor,Mygeeto,
+len:  696
+fuel: 400
+====
+Death Star,Wobani,Mandalore,Mimban,Corellia,Kashyyyk,Umbara,Bespin,Malachor,Coruscant,Scarif,Death Star,Endor,Mygeeto,
+len:  690
+fuel: 400
+====
+Death Star,Wobani,Mandalore,Mimban,Corellia,Kashyyyk,Umbara,Bespin,Malachor,Coruscant,Scarif,Death Star,Mygeeto,Endor,
+len:  694
+fuel: 396
+====
+Death Star,Wobani,Mandalore,Mimban,Corellia,Kashyyyk,Umbara,Bespin,Malachor,Scarif,Coruscant,Death Star,Endor,Mygeeto,
+len:  698
+fuel: 400
+====
+Death Star,Wobani,Corellia,Kashyyyk,Mandalore,Mimban,Umbara,Bespin,Coruscant,Malachor,Scarif,Death Star,Endor,Mygeeto,
+len:  698
+fuel: 400
+====
+Death Star,Wobani,Corellia,Kashyyyk,Mandalore,Mimban,Umbara,Bespin,Malachor,Coruscant,Scarif,Death Star,Endor,Mygeeto,
+len:  698
+fuel: 400
+====
+Death Star,Wobani,Corellia,Mandalore,Mimban,Kashyyyk,Umbara,Bespin,Coruscant,Scarif,Malachor,Death Star,Endor,Mygeeto,
+len:  698
+fuel: 400
+====
+Death Star,Wobani,Corellia,Mandalore,Mimban,Kashyyyk,Umbara,Bespin,Coruscant,Malachor,Scarif,Death Star,Endor,Mygeeto,
+len:  684
+fuel: 400
+====
+Death Star,Wobani,Corellia,Mandalore,Mimban,Kashyyyk,Umbara,Bespin,Coruscant,Malachor,Scarif,Death Star,Mygeeto,Endor,
+len:  688
+fuel: 396
+====
+Death Star,Wobani,Corellia,Mandalore,Mimban,Kashyyyk,Umbara,Bespin,Scarif,Coruscant,Malachor,Death Star,Endor,Mygeeto,
+len:  696
+fuel: 400
+====
+Death Star,Wobani,Corellia,Mandalore,Mimban,Kashyyyk,Umbara,Bespin,Scarif,Malachor,Coruscant,Death Star,Endor,Mygeeto,
+len:  690
+fuel: 400
+====
+Death Star,Wobani,Corellia,Mandalore,Mimban,Kashyyyk,Umbara,Bespin,Scarif,Malachor,Coruscant,Death Star,Mygeeto,Endor,
+len:  694
+fuel: 396
+====
+Death Star,Wobani,Corellia,Mandalore,Mimban,Kashyyyk,Umbara,Bespin,Malachor,Coruscant,Scarif,Death Star,Endor,Mygeeto,
+len:  684
+fuel: 400
+====
+Death Star,Wobani,Corellia,Mandalore,Mimban,Kashyyyk,Umbara,Bespin,Malachor,Coruscant,Scarif,Death Star,Mygeeto,Endor,
+len:  688
+fuel: 396
+====
+Death Star,Wobani,Corellia,Mandalore,Mimban,Kashyyyk,Umbara,Bespin,Malachor,Scarif,Coruscant,Death Star,Endor,Mygeeto,
+len:  692
+fuel: 400
+====
+Death Star,Wobani,Corellia,Mimban,Mandalore,Kashyyyk,Umbara,Bespin,Coruscant,Scarif,Malachor,Death Star,Endor,Mygeeto,
+len:  696
+fuel: 400
+====
+Death Star,Wobani,Corellia,Mimban,Mandalore,Kashyyyk,Umbara,Bespin,Coruscant,Malachor,Scarif,Death Star,Endor,Mygeeto,
+len:  682
+fuel: 400
+====
+Death Star,Wobani,Corellia,Mimban,Mandalore,Kashyyyk,Umbara,Bespin,Coruscant,Malachor,Scarif,Death Star,Mygeeto,Endor,
+len:  686
+fuel: 396
+====
+Death Star,Wobani,Corellia,Mimban,Mandalore,Kashyyyk,Umbara,Bespin,Scarif,Coruscant,Malachor,Death Star,Endor,Mygeeto,
+len:  694
+fuel: 400
+====
+Death Star,Wobani,Corellia,Mimban,Mandalore,Kashyyyk,Umbara,Bespin,Scarif,Malachor,Coruscant,Death Star,Endor,Mygeeto,
+len:  688
+fuel: 400
+====
+Death Star,Wobani,Corellia,Mimban,Mandalore,Kashyyyk,Umbara,Bespin,Scarif,Malachor,Coruscant,Death Star,Mygeeto,Endor,
+len:  692
+fuel: 396
+====
+Death Star,Wobani,Corellia,Mimban,Mandalore,Kashyyyk,Umbara,Bespin,Malachor,Coruscant,Scarif,Death Star,Endor,Mygeeto,
+len:  682
+fuel: 400
+====
+Death Star,Wobani,Corellia,Mimban,Mandalore,Kashyyyk,Umbara,Bespin,Malachor,Coruscant,Scarif,Death Star,Mygeeto,Endor,
+len:  686
+fuel: 396
+====
+Death Star,Wobani,Corellia,Mimban,Mandalore,Kashyyyk,Umbara,Bespin,Malachor,Scarif,Coruscant,Death Star,Endor,Mygeeto,
+len:  690
+fuel: 400
+====
+Death Star,Wobani,Corellia,Mimban,Mandalore,Kashyyyk,Umbara,Bespin,Malachor,Scarif,Coruscant,Death Star,Mygeeto,Endor,
+len:  694
+fuel: 396
+====
+Death Star,Wobani,Umbara,Kashyyyk,Mandalore,Mimban,Corellia,Bespin,Coruscant,Scarif,Malachor,Death Star,Endor,Mygeeto,
+len:  696
+fuel: 400
+====
+Death Star,Wobani,Umbara,Kashyyyk,Mandalore,Mimban,Corellia,Bespin,Coruscant,Malachor,Scarif,Death Star,Endor,Mygeeto,
+len:  682
+fuel: 400
+====
+Death Star,Wobani,Umbara,Kashyyyk,Mandalore,Mimban,Corellia,Bespin,Coruscant,Malachor,Scarif,Death Star,Mygeeto,Endor,
+len:  686
+fuel: 396
+====
+Death Star,Wobani,Umbara,Kashyyyk,Mandalore,Mimban,Corellia,Bespin,Scarif,Coruscant,Malachor,Death Star,Endor,Mygeeto,
+len:  694
+fuel: 400
+====
+Death Star,Wobani,Umbara,Kashyyyk,Mandalore,Mimban,Corellia,Bespin,Scarif,Malachor,Coruscant,Death Star,Endor,Mygeeto,
+len:  688
+fuel: 400
+====
+Death Star,Wobani,Umbara,Kashyyyk,Mandalore,Mimban,Corellia,Bespin,Scarif,Malachor,Coruscant,Death Star,Mygeeto,Endor,
+len:  692
+fuel: 396
+====
+Death Star,Wobani,Umbara,Kashyyyk,Mandalore,Mimban,Corellia,Bespin,Malachor,Coruscant,Scarif,Death Star,Endor,Mygeeto,
+len:  682
+fuel: 400
+====
+Death Star,Wobani,Umbara,Kashyyyk,Mandalore,Mimban,Corellia,Bespin,Malachor,Coruscant,Scarif,Death Star,Mygeeto,Endor,
+len:  686
+fuel: 396
+====
+Death Star,Wobani,Umbara,Kashyyyk,Mandalore,Mimban,Corellia,Bespin,Malachor,Scarif,Coruscant,Death Star,Endor,Mygeeto,
+len:  690
+fuel: 400
+====
+Death Star,Wobani,Umbara,Kashyyyk,Mandalore,Mimban,Corellia,Bespin,Malachor,Scarif,Coruscant,Death Star,Mygeeto,Endor,
+len:  694
+fuel: 396
+====
+Death Star,Wobani,Umbara,Kashyyyk,Corellia,Mandalore,Mimban,Bespin,Coruscant,Malachor,Scarif,Death Star,Endor,Mygeeto,
+len:  690
+fuel: 400
+====
+Death Star,Wobani,Umbara,Kashyyyk,Corellia,Mandalore,Mimban,Bespin,Coruscant,Malachor,Scarif,Death Star,Mygeeto,Endor,
+len:  694
+fuel: 396
+====
+Death Star,Wobani,Umbara,Kashyyyk,Corellia,Mandalore,Mimban,Bespin,Scarif,Malachor,Coruscant,Death Star,Endor,Mygeeto,
+len:  696
+fuel: 400
+====
+Death Star,Wobani,Umbara,Kashyyyk,Corellia,Mandalore,Mimban,Bespin,Malachor,Coruscant,Scarif,Death Star,Endor,Mygeeto,
+len:  690
+fuel: 400
+====
+Death Star,Wobani,Umbara,Kashyyyk,Corellia,Mandalore,Mimban,Bespin,Malachor,Coruscant,Scarif,Death Star,Mygeeto,Endor,
+len:  694
+fuel: 396
+====
+Death Star,Wobani,Umbara,Kashyyyk,Corellia,Mandalore,Mimban,Bespin,Malachor,Scarif,Coruscant,Death Star,Endor,Mygeeto,
+len:  698
+fuel: 400
+====
+Death Star,Wobani,Umbara,Kashyyyk,Corellia,Mimban,Mandalore,Bespin,Coruscant,Malachor,Scarif,Death Star,Endor,Mygeeto,
+len:  690
+fuel: 400
+====
+Death Star,Wobani,Umbara,Kashyyyk,Corellia,Mimban,Mandalore,Bespin,Coruscant,Malachor,Scarif,Death Star,Mygeeto,Endor,
+len:  694
+fuel: 396
+====
+Death Star,Wobani,Umbara,Kashyyyk,Corellia,Mimban,Mandalore,Bespin,Scarif,Malachor,Coruscant,Death Star,Endor,Mygeeto,
+len:  696
+fuel: 400
+====
+Death Star,Wobani,Umbara,Kashyyyk,Corellia,Mimban,Mandalore,Bespin,Malachor,Coruscant,Scarif,Death Star,Endor,Mygeeto,
+len:  690
+fuel: 400
+====
+Death Star,Wobani,Umbara,Kashyyyk,Corellia,Mimban,Mandalore,Bespin,Malachor,Coruscant,Scarif,Death Star,Mygeeto,Endor,
+len:  694
+fuel: 396
+====
+Death Star,Wobani,Umbara,Kashyyyk,Corellia,Mimban,Mandalore,Bespin,Malachor,Scarif,Coruscant,Death Star,Endor,Mygeeto,
+len:  698
+fuel: 400
+====
+Death Star,Wobani,Umbara,Kashyyyk,Mimban,Mandalore,Corellia,Bespin,Coruscant,Scarif,Malachor,Death Star,Endor,Mygeeto,
+len:  698
+fuel: 400
+====
+Death Star,Wobani,Umbara,Kashyyyk,Mimban,Mandalore,Corellia,Bespin,Coruscant,Malachor,Scarif,Death Star,Endor,Mygeeto,
+len:  684
+fuel: 400
+====
+Death Star,Wobani,Umbara,Kashyyyk,Mimban,Mandalore,Corellia,Bespin,Coruscant,Malachor,Scarif,Death Star,Mygeeto,Endor,
+len:  688
+fuel: 396
+====
+Death Star,Wobani,Umbara,Kashyyyk,Mimban,Mandalore,Corellia,Bespin,Scarif,Coruscant,Malachor,Death Star,Endor,Mygeeto,
+len:  696
+fuel: 400
+====
+Death Star,Wobani,Umbara,Kashyyyk,Mimban,Mandalore,Corellia,Bespin,Scarif,Malachor,Coruscant,Death Star,Endor,Mygeeto,
+len:  690
+fuel: 400
+====
+Death Star,Wobani,Umbara,Kashyyyk,Mimban,Mandalore,Corellia,Bespin,Scarif,Malachor,Coruscant,Death Star,Mygeeto,Endor,
+len:  694
+fuel: 396
+====
+Death Star,Wobani,Umbara,Kashyyyk,Mimban,Mandalore,Corellia,Bespin,Malachor,Coruscant,Scarif,Death Star,Endor,Mygeeto,
+len:  684
+fuel: 400
+====
+Death Star,Wobani,Umbara,Kashyyyk,Mimban,Mandalore,Corellia,Bespin,Malachor,Coruscant,Scarif,Death Star,Mygeeto,Endor,
+len:  688
+fuel: 396
+====
+Death Star,Wobani,Umbara,Kashyyyk,Mimban,Mandalore,Corellia,Bespin,Malachor,Scarif,Coruscant,Death Star,Endor,Mygeeto,
+len:  692
+fuel: 400
+====
+Death Star,Wobani,Umbara,Mandalore,Mimban,Corellia,Kashyyyk,Bespin,Coruscant,Malachor,Scarif,Death Star,Endor,Mygeeto,
+len:  690
+fuel: 400
+====
+Death Star,Wobani,Umbara,Mandalore,Mimban,Corellia,Kashyyyk,Bespin,Coruscant,Malachor,Scarif,Death Star,Mygeeto,Endor,
+len:  694
+fuel: 396
+====
+Death Star,Wobani,Umbara,Mandalore,Mimban,Corellia,Kashyyyk,Bespin,Scarif,Malachor,Coruscant,Death Star,Endor,Mygeeto,
+len:  696
+fuel: 400
+====
+Death Star,Wobani,Umbara,Mandalore,Mimban,Corellia,Kashyyyk,Bespin,Malachor,Coruscant,Scarif,Death Star,Endor,Mygeeto,
+len:  690
+fuel: 400
+====
+Death Star,Wobani,Umbara,Mandalore,Mimban,Corellia,Kashyyyk,Bespin,Malachor,Coruscant,Scarif,Death Star,Mygeeto,Endor,
+len:  694
+fuel: 396
+====
+Death Star,Wobani,Umbara,Mandalore,Mimban,Corellia,Kashyyyk,Bespin,Malachor,Scarif,Coruscant,Death Star,Endor,Mygeeto,
+len:  698
+fuel: 400
+====
+Death Star,Wobani,Umbara,Corellia,Kashyyyk,Mandalore,Mimban,Bespin,Coruscant,Malachor,Scarif,Death Star,Endor,Mygeeto,
+len:  698
+fuel: 400
+====
+Death Star,Wobani,Umbara,Corellia,Kashyyyk,Mandalore,Mimban,Bespin,Malachor,Coruscant,Scarif,Death Star,Endor,Mygeeto,
+len:  698
+fuel: 400
+====
+Death Star,Wobani,Umbara,Corellia,Mandalore,Mimban,Kashyyyk,Bespin,Coruscant,Scarif,Malachor,Death Star,Endor,Mygeeto,
+len:  698
+fuel: 400
+====
+Death Star,Wobani,Umbara,Corellia,Mandalore,Mimban,Kashyyyk,Bespin,Coruscant,Malachor,Scarif,Death Star,Endor,Mygeeto,
+len:  684
+fuel: 400
+====
+Death Star,Wobani,Umbara,Corellia,Mandalore,Mimban,Kashyyyk,Bespin,Coruscant,Malachor,Scarif,Death Star,Mygeeto,Endor,
+len:  688
+fuel: 396
+====
+Death Star,Wobani,Umbara,Corellia,Mandalore,Mimban,Kashyyyk,Bespin,Scarif,Coruscant,Malachor,Death Star,Endor,Mygeeto,
+len:  696
+fuel: 400
+====
+Death Star,Wobani,Umbara,Corellia,Mandalore,Mimban,Kashyyyk,Bespin,Scarif,Malachor,Coruscant,Death Star,Endor,Mygeeto,
+len:  690
+fuel: 400
+====
+Death Star,Wobani,Umbara,Corellia,Mandalore,Mimban,Kashyyyk,Bespin,Scarif,Malachor,Coruscant,Death Star,Mygeeto,Endor,
+len:  694
+fuel: 396
+====
+Death Star,Wobani,Umbara,Corellia,Mandalore,Mimban,Kashyyyk,Bespin,Malachor,Coruscant,Scarif,Death Star,Endor,Mygeeto,
+len:  684
+fuel: 400
+====
+Death Star,Wobani,Umbara,Corellia,Mandalore,Mimban,Kashyyyk,Bespin,Malachor,Coruscant,Scarif,Death Star,Mygeeto,Endor,
+len:  688
+fuel: 396
+====
+Death Star,Wobani,Umbara,Corellia,Mandalore,Mimban,Kashyyyk,Bespin,Malachor,Scarif,Coruscant,Death Star,Endor,Mygeeto,
+len:  692
+fuel: 400
+====
+Death Star,Wobani,Umbara,Corellia,Mimban,Mandalore,Kashyyyk,Bespin,Coruscant,Scarif,Malachor,Death Star,Endor,Mygeeto,
+len:  696
+fuel: 400
+====
+Death Star,Wobani,Umbara,Corellia,Mimban,Mandalore,Kashyyyk,Bespin,Coruscant,Malachor,Scarif,Death Star,Endor,Mygeeto,
+len:  682
+fuel: 400
+====
+Death Star,Wobani,Umbara,Corellia,Mimban,Mandalore,Kashyyyk,Bespin,Coruscant,Malachor,Scarif,Death Star,Mygeeto,Endor,
+len:  686
+fuel: 396
+====
+Death Star,Wobani,Umbara,Corellia,Mimban,Mandalore,Kashyyyk,Bespin,Scarif,Coruscant,Malachor,Death Star,Endor,Mygeeto,
+len:  694
+fuel: 400
+====
+Death Star,Wobani,Umbara,Corellia,Mimban,Mandalore,Kashyyyk,Bespin,Scarif,Malachor,Coruscant,Death Star,Endor,Mygeeto,
+len:  688
+fuel: 400
+====
+Death Star,Wobani,Umbara,Corellia,Mimban,Mandalore,Kashyyyk,Bespin,Scarif,Malachor,Coruscant,Death Star,Mygeeto,Endor,
+len:  692
+fuel: 396
+====
+Death Star,Wobani,Umbara,Corellia,Mimban,Mandalore,Kashyyyk,Bespin,Malachor,Coruscant,Scarif,Death Star,Endor,Mygeeto,
+len:  682
+fuel: 400
+====
+Death Star,Wobani,Umbara,Corellia,Mimban,Mandalore,Kashyyyk,Bespin,Malachor,Coruscant,Scarif,Death Star,Mygeeto,Endor,
+len:  686
+fuel: 396
+====
+Death Star,Wobani,Umbara,Corellia,Mimban,Mandalore,Kashyyyk,Bespin,Malachor,Scarif,Coruscant,Death Star,Endor,Mygeeto,
+len:

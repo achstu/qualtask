@@ -1,6 +1,17 @@
+#pragma once
+
 #include <iostream>
 #include <string>
 using namespace std;
+
+template <typename T> bool ckmin(T &a, const T &b) {
+  return a > b ? a = b, 1 : 0;
+}
+template <typename T> bool ckmax(T &a, const T &b) {
+  return a < b ? a = b, 1 : 0;
+}
+
+#define sz(x) (static_cast<int>((x).size()))
 
 template <typename T, typename = T::value_type>
 static ostream &operator<<(ostream &os, const T &x)
