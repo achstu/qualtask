@@ -6,7 +6,7 @@
 const int MAX_FUEL = 550;
 
 struct Path {
-  const vector<Planet> &path;
+  const vector<Planet> path;
   const int fuel;
 
   bool __valid;
@@ -14,7 +14,7 @@ struct Path {
   int __length;
   // string __repr;
 
-  Path(const vector<Planet> &p, const int f) : path(p), fuel(f) { __init(); }
+  Path(const vector<Planet> p, const int f) : path(p), fuel(f) { __init(); }
 
   void __init() {
     __valid = true;
@@ -48,6 +48,13 @@ struct Path {
     return res;
   }
 
+  friend Path join(Path a, vector<Planet> perm) {
+    auto new_path = a.path;
+    new_path.insert(new_path.end(), perm.begin(), perm.end());
+    Path res(new_path, a.fuel);
+    return res;
+  }
+  
   string __repr__() const {
     string res = "Path({";
     for (Planet p : path) {

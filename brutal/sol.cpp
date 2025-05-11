@@ -2,9 +2,12 @@
 using namespace std;
 
 #include "data.h"
+#include "mids.h"
 
 int main() {
-  for (int p : {1, 2, 3, 4, 5}) {
-    cout << p << ": " << priority(p).size() << "\n";
+  for (const Path& mid : mids) {
+    if (mid.lenght() - mid.remaining_fuel() < 1200) {
+      cout << mid.__repr__() << "\n";
+    }
   }
 }

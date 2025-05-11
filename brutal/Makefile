@@ -3,7 +3,7 @@ CXXFLAGS = $(shell cat compile_flags.txt)
 default: sol
 
 %: %.cpp
-	g++ $(CXXFLAGS) -O3 $< -o $@
+	g++ $(CXXFLAGS) -O1 $< -o $@
 
 
 %_fast: %.cpp

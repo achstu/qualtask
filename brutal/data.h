@@ -10,7 +10,8 @@ using Planet = int;
 struct Point3 {
   int x, y, z;
 
-  string repr() const { return format("({},{},{})", x, y, z); };
+  // string repr() const { return format("({},{},{})", x, y, z); };
+  string repr() const { return "dupka"; }
   friend int dist(const Point3 &a, const Point3 &b) {
     return abs(a.x - b.x) + abs(a.y - b.y) + abs(a.z - b.z);
   }
